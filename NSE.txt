@@ -1,0 +1,16 @@
+Request URL: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY%2050
+
+Request Headers:
+
+accept-encoding: gzip,
+
+accept-language: en-IN,en;q=0.9,
+
+
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+
+
+
+cookie:
+
+07FFE6D04BC8E033B7FF8940BB0B246C~000000000000000000000000000000~YAAQNDZ8aK1lLGR/AQAAHWKNeA+JyId24ECgI/W0gTXEl/G4e+qqE3IQy9twGFEeT+8uaStlVR6Z1ns2aGDDQg3Kv/LQjCnbC4uGDx20+IDDZW1u+WgN8VBRxnvUvxspEGlt74IVWpWqCta9ZYWLsATLrqa9VvlHFvWpq/6gSyCyFPQhQcKbdfy09Cx82D8AgqMRZcQWDyKuRyZT0cprHlHW6+Ciks2HvmpYtuhFpe1KR3R+IJtc6JkeHJ5cRPK8F4pB4jeDCUJ+DE6lt2CKBnum19q5Gpi4th6GO5wKw1QVLqBQJzSsUXF5gWTBI7W19igYtwvdG+wX3KqXmxqfbosc2Scp9l3eiXdPBnQp8l2LulMzlvJ0v6pof2nTFQofTZwYqDHPmpkEbFCFcUUv7Y6Cs7+c1/a+gj1RFyOFDJQ8z8F/OU9cJckFqy2vr3scIgDCCIm2wok1t+eAN20R66AH+F6I/bsaflRIGSiKfvKuM9yE8vQQW62Ak+WD; nseappid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJhcGkubnNlIiwiYXVkIjoiYXBpLm5zZSIsImlhdCI6MTY0Njk5NTMxNywiZXhwIjoxNjQ2OTk4OTE3fQ.2v8AbqX-p8RMwlt4z6BwV93IlSRMFWWmCzqogOcLnq0; RT="z=1&dm=nseindia.com&si=9d023928-e513-40aa-b02a-0d4472b241cc&ss=l0maav7q&sl=4&tt=4n8&bcn=%2F%2F684d0d4b.akstat.io%2F"; bm_sv=C4859F17FBDAF9C196CE3B02D1571490~6a+qrmCigOggy4vdnNQCUwjlaOmP+rQcIlv6RKggzteZAS1val0HuVcLW5b75Yc9iiPqW1Scq0HtYH2R2uBRdrLBUDQcxDUUJ9qc2/zYjnESR8gdHe+7AsbSxmawj1xx1iUvMQjP2inluayRiRx2mVsh7wakns6ilZaGRhZTxDE=
