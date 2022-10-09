@@ -1,4 +1,8 @@
 
+import pandas as pd
+#!pip install nsepy
+from nsepy import get_history
+from datetime import date
 
 # Extract Index Data
 
